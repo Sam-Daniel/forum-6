@@ -1,0 +1,72 @@
+body{
+
+    width:auto;
+    height:auto;
+    background-color:#D0D3D4;
+}
+#login_container{
+    opacity:0.9;
+    width:500px;
+    height:333px;
+    background-color: darkgreen;
+    margin:auto;
+    margin-top:15%;
+    border-radius: 25px;
+
+}
+#login_container:hover{
+    opacity:1;
+}
+.input_field{
+
+    border-radius: 25px;
+    margin-top:30px;
+    margin-left:100px;
+    width:300px;
+    height:50px;
+}
+.login_error_msg{
+    margin-left: auto;
+    margin-right: auto;
+    width: 210px;
+    color: white;
+}
+.header{
+    width:700px;
+    height:100px;
+
+}
+.container{
+    border-radius: 25px;
+    background-color: white;
+    margin:auto;
+    width:700px;
+    height:auto;
+    border: 1px solid black;
+}
+.post_table{
+
+    width:auto;
+    height:auto;
+    border: 1px solid black;
+}
+.topic_post_container{
+    width:500px;
+    height:333px;
+
+    margin:auto;
+    margin-top:15%;
+    border-radius: 25px;
+
+}
+.add_topic_post{
+    margin-left: 75px; 
+    border-radius: 25px;
+    margin-top:14%;
+    width:350px;
+    height:111px;
+
+}
+.btnform{
+    height:auto;
+}
